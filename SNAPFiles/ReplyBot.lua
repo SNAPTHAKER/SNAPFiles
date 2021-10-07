@@ -45,6 +45,11 @@ SNAPTEAM = '[--> 𝙏𝙝𝙖𝙠𝙚𝙧 <--](http://t.me/TJTJT)'
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
 return false
 end
+if text == 'مطور سناب' or text =='منو مطور سناب ' then 
+SNAPTEAM = '[tِuِoٰfٌe ٰaٌِlٰHٰaٌِlfٍi](http://t.me/RFRFF)'
+Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
+return false
+end
 if text == '🌚💔' or text == '💔🌚' or text == '🚶‍♂💔' or text == '💔' or text == '😔💔' or text == '🚶‍♀💔' or text == '😭' then 
 SNAPTEAM =  "شبّيي اﻟ̣̣פﻟ̣̣و 𖠙 😿💔"
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
