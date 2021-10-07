@@ -41,7 +41,7 @@ Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md')
 return false
 end
 if text == 'مبرمج السورس' or text == 'مبرمج سناب' or text == 'مبرمج ذاكر' or text == 'منو مبرمج ذاكر' or text == 'ذاكر المبرمج' or text == 'ياهو مبرمج سناب' then 
-SNAPTEAM = '[--> 𝙏𝙝𝙖𝙠𝙚𝙧 <--](http://t.me/@TJTJT)'
+SNAPTEAM = '[--> 𝙏𝙝𝙖𝙠𝙚𝙧 <--](http://t.me/TJTJT)'
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
 return false
 end
