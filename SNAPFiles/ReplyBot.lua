@@ -31,12 +31,12 @@ end
 Dev_Abs(msg.chat_id_, msg.id_, 1,rd, 1, 'html')
 end
 if text == 'دي' or text == 'ديي' or text == 'دي بابه' then 
-SNAPTEAM =  "آخلُِآقٌڪڪ لُِڪڪ 𖠙 😒🔪"
+SNAPTEAM =  "اخلاقك الخايسه ؏ٛـمَݛيہِٰ 💗"
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
 return false
 end
 if text == 'السلام عليكم' or text == 'سلام عليكم' then 
-SNAPTEAM =  "ياھَہّلْاا ۅﻋ̝̚لْيڪْم الْﺳ̭͠ لْام 𖠙 🤤♥️"
+SNAPTEAM =  "وعليكم ؏ٛـمَݛيہِٰ شاي وله قهوا؟ "
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
 return false
 end
@@ -67,23 +67,23 @@ Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM[DevAbs2] , 1, 'md')
 return false
 end
 if text == 'شونك' or text == 'شونج' or text == 'شلونك' or text == 'شلونج' or text == 'شونكم' or text == 'شلونكم' or text == 'شلخبار' or text == 'شلون الاخبار' or text == 'شخبارك' then 
-local SNAPTEAM = {"ماﺷ͠ يةھَہّ يﻋ̝̚مريي ۅاﻧﺗ̲ت 𖠙 🤤♥️" ,"الحۡمۘدللهۂَ ٰوانۨہتت 𖠙 🤤♥️","تمۘامۘ عمۘري ٰوانۨہتت 𖠙 🤤♥️"} 
+local SNAPTEAM = {"ابوسك ؏ٛـمَݛيہِٰ وانت؟ 🤤👄" ,"ټمـٱمـ ؏ٛـمَݛيہِٰ وانت يحلو/ه 😩💗","وف ؏ٛـمَݛيہِٰ وانت 🥺💗"} 
 DevAbs2 = math.random(#SNAPTEAM) 
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM[DevAbs2] , 1, 'md') 
 return false
 end
 if text == 'وينك' or text == 'وينج' then
-SNAPTEAM =  "مْوٌجہوٌدِ يہمْگُ يحلوُ 𖠙 😉♥️"
+SNAPTEAM =  "وف ؏ٛـمَݛيہِٰ ابوس ليشتاقلي 😩💗"
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
 return false
 end
 if text == 'بوت عواي' or text == 'بوت زربه' or text == 'البوت عاوي' or text == 'البوت زربه' then
-SNAPTEAM =  "اطردكك تجرب ؟ ، 😕🔪"
+SNAPTEAM =  "زربا بحلكك ؏ٛـمَݛيہِٰ 🙂💗"
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
 return false
 end
 if text == 'نايمين' or text == 'ميتين' then
-SNAPTEAM =  "طُآمسين ووعٍيوونڪ 𖠙 😪🖤ۦ"
+SNAPTEAM =  "تجي ابوس عيونك وتحبني 😩💖😂"
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
 return false
 end
@@ -93,12 +93,12 @@ Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md')
 return false
 end
 if text == 'اكلك' or text == 'اكلج' or text == 'اكلكم' then 
-SNAPTEAM =  "ڪوولُِ مآڪوولُِ لُِآحٍدِ 𖠙 😉♥️"
+SNAPTEAM =  "كول ؏ٛـمَݛيہِٰ شاورني 💗😂"
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md')
 return false
 end
 if text == 'فرخ' then
-SNAPTEAM =  "ٰوينۨہهۂَ خۡل احۡصرهۂَ 𖠙 😹♥️" 
+SNAPTEAM =  "ٰوينه ؏ٛـمَݛيہِٰ خلحصره 😂😩" 
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
 return false
 end
