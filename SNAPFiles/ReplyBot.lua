@@ -61,7 +61,7 @@ Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md')
 return false
 end
 if text == 'هلو' or text == 'هلاو' or text == 'هلا' or text == 'هلاوو' or text == 'هيلاو' or text == 'هيلاوو' or text == 'هلاا' then 
-local SNAPTEAM = {"اࠗط็لق֯ق֯ هٞللاࠗ୨و 𖠙 🤤♥️" ,"هۂَلاا نۨہٰورتت يعمۘري 𖠙 🤤♥️" } 
+local SNAPTEAM = {"وف ؏ٛـمَݛيہِٰ كل الهلا 😩💗" ,"هَــْـِْـْْـِلاّ يلحبيب بمكن اهلا 🥺💗" } 
 DevAbs2 = math.random(#SNAPTEAM) 
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM[DevAbs2] , 1, 'md') 
 return false
