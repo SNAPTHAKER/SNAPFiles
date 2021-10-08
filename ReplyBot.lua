@@ -56,7 +56,7 @@ Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md')
 return false
 end
 if text == 'باي' or text == 'بااي' or text == 'اروح' or text == 'اروح احسن' or text == 'اولي احسن' or text == 'راح اروح' or text == 'باي انام' then 
-SNAPTEAM =  "أُرٌجُعُ عٍيدِهآآ مٍوو تنِْسةه 𖠙 🤤♥️"
+SNAPTEAM =  "وين ؏ٛـمَݛيہِٰ تع اغنيلك 😩💗"
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
 return false
 end
@@ -77,6 +77,11 @@ SNAPTEAM =  "وف ؏ٛـمَݛيہِٰ ابوس ليشتاقلي 😩💗"
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
 return false
 end
+if text == 'بوسه' or text == 'بوسها' then
+SNAPTEAM =  "اهممواح 👄ع شفتك"
+Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
+return false
+end
 if text == 'بوت عواي' or text == 'بوت زربه' or text == 'البوت عاوي' or text == 'البوت زربه' then
 SNAPTEAM =  "زربا بحلكك ؏ٛـمَݛيہِٰ 🙂💗"
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
@@ -84,11 +89,6 @@ return false
 end
 if text == 'نايمين' or text == 'ميتين' then
 SNAPTEAM =  "تجي ابوس عيونك وتحبني 😩💖😂"
-Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
-return false
-end
-if text == 'باي' or text == 'هلو باي' then  
-SNAPTEAM =  "اني احبك بكد العالم 😩💖"
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
 return false
 end
