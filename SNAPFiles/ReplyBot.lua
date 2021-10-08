@@ -77,6 +77,11 @@ SNAPTEAM =  "وف ؏ٛـمَݛيہِٰ ابوس ليشتاقلي 😩💗"
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
 return false
 end
+if text == 'بوسه' or text == 'بوسها' then
+SNAPTEAM =  "اهممواح 👄ع شفتك"
+Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
+return false
+end
 if text == 'بوت عواي' or text == 'بوت زربه' or text == 'البوت عاوي' or text == 'البوت زربه' then
 SNAPTEAM =  "زربا بحلكك ؏ٛـمَݛيہِٰ 🙂💗"
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
