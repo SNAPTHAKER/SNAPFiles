@@ -50,6 +50,9 @@ SNAPTEAM = '[tِuِoٰfٌe ٰaٌِlٰHٰaٌِlfٍi](http://t.me/RFRFF)'
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
 return false
 end
+if text == "سرعه النت" or text == "رابط النت" then local inline = {{{text="اضغط هنا",url="https://fast.com/ar/#"}}} SendInline(msg.chat_id_,'⚘ ¦ اضغط للحصول على الرابط',nil,inline) return false end
+if text == "رابط النت" or text == "اريد بوت النت" then local inline = {{{text="اضغط هنا",url="https://fast.com/ar/#"}}} SendInline(msg.chat_id_,'⚘ ¦ اضغط للحصول على البوت',nil,inline) return false end
+end
 if text == '🌚💔' or text == '💔🌚' or text == '🚶‍♂💔' or text == '💔' or text == '😔💔' or text == '🚶‍♀💔' or text == '😭' then 
 SNAPTEAM =  "شبّيي اﻟ̣̣פﻟ̣̣و 𖠙 😿💔"
 Dev_Abs(msg.chat_id_, msg.id_, 1, SNAPTEAM, 1, 'md') 
